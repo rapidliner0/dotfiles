@@ -1,6 +1,6 @@
 #!/bin/bash
 
-DOT_FILES=()
+DOT_FILES=(.bashrc .gitconfig)
 
 for file in ${DOT_FILES[@]}
 do

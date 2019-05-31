@@ -1,2 +1,3 @@
 https://noto-website-2.storage.googleapis.com/pkgs/NotoSansCJKjp-hinted.zip
 https://noto-website-2.storage.googleapis.com/pkgs/NotoSerifCJKjp-hinted.zip
+https://noto-website-2.storage.googleapis.com/pkgs/NotoMono-hinted.zip
